@@ -1,21 +1,15 @@
-# [docker vuepress](https://github.com/qitas/docker-vuepress) 
-
+# [docker vuepress](https://github.com/qitas/docker-vuepress)
 ### qitas@qitas.cn
+#### 上级目录 [docker](https://github.com/Qitas/docker)
 
-## 描述
+基于vuepress docker容器构建的博客站点
 
-基于vuepress的博客站点docker
 
----
+## 相关资源
 
-## 组成
+* [vuepress源工程](https://github.com/vuejs/vuepress) 
 
-#### vuepress
 
-https://github.com/vuejs/vuepress.git
-
----
-
-## 为锻造最美之器
 
 [![sites](qitas/qitas.png)](http://www.qitas.cn)
+## 锻造最美之器
