@@ -1,18 +1,3 @@
-[submodule "platforms/P25"]
-	path = platforms/P25
-	url = https://github.com/OS-Q/P25.git
 [submodule "platforms/P21"]
 	path = platforms/P21
 	url = https://github.com/OS-Q/P21.git
-[submodule "platforms/P51"]
-	path = platforms/P51
-	url = https://github.com/OS-Q/P51.git
-[submodule "platforms/P52"]
-	path = platforms/P52
-	url = https://github.com/OS-Q/P52.git
-[submodule "platforms/P67"]
-	path = platforms/P67
-	url = https://github.com/OS-Q/P67.git
-[submodule "platforms/P68"]
-	path = platforms/P68
-	url = https://github.com/OS-Q/P68.git
