@@ -1,3 +1,18 @@
 [submodule "platforms/P21"]
 	path = platforms/P21
 	url = https://github.com/OS-Q/P21.git
+[submodule "platforms/P29-STM32L"]
+	path = platforms/P29-STM32L
+	url = https://github.com/OS-Q/P29
+[submodule "platforms/P24-Freescale"]
+	path = platforms/P24-Freescale
+	url = https://github.com/OS-Q/P24
+[submodule "platforms/P23-SAM"]
+	path = platforms/P23-SAM
+	url = https://github.com/OS-Q/P23
+[submodule "platforms/P22-GD32V"]
+	path = platforms/P22-GD32V
+	url = https://github.com/OS-Q/P22
+[submodule "platforms/P25-NXPLPC"]
+	path = platforms/P25-NXPLPC
+	url = https://github.com/OS-Q/P25
