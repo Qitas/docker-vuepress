@@ -28,3 +28,12 @@
 [submodule "platforms/P12-MEGA"]
 	path = platforms/P12-MEGA
 	url = https://github.com/OS-Q/P12
+[submodule "platforms/P31-PICO"]
+	path = platforms/P31-PICO
+	url = https://github.com/OS-Q/P31
+[submodule "platforms/P32-STM32H"]
+	path = platforms/P32-STM32H
+	url = https://github.com/OS-Q/P32
+[submodule "platforms/P33-IMXRT"]
+	path = platforms/P33-IMXRT
+	url = https://github.com/OS-Q/P33
