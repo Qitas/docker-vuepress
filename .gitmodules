@@ -16,3 +16,15 @@
 [submodule "platforms/P29-STM32L"]
 	path = platforms/P29-STM32L
 	url = https://github.com/OS-Q/P29
+[submodule "platforms/P26-SWM320"]
+	path = platforms/P26-SWM320
+	url = https://github.com/OS-Q/P26
+[submodule "platforms/P27-PIC32"]
+	path = platforms/P27-PIC32
+	url = https://github.com/OS-Q/P27
+[submodule "platforms/P11-AVR"]
+	path = platforms/P11-AVR
+	url = https://github.com/OS-Q/P11
+[submodule "platforms/P12-MEGA"]
+	path = platforms/P12-MEGA
+	url = https://github.com/OS-Q/P12
