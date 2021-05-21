@@ -1,0 +1,18 @@
+[submodule "platforms/P139-MSP430"]
+	path = platforms/P139-MSP430
+	url = https://github.com/OS-Q/P139.git
+[submodule "platforms/P131-STM8S"]
+	path = platforms/P131-STM8S
+	url = https://github.com/OS-Q/P131.git
+[submodule "platforms/P111-AVR"]
+	path = platforms/P111-AVR
+	url = https://github.com/OS-Q/P111.git
+[submodule "arduino/A139-MSP430"]
+	path = arduino/A139-MSP430
+	url = https://github.com/OS-Q/A139.git
+[submodule "arduino/A111-AVR"]
+	path = arduino/A111-AVR
+	url = https://github.com/OS-Q/A111.git
+[submodule "arduino/A131-STM8S"]
+	path = arduino/A131-STM8S
+	url = https://github.com/OS-Q/A131.git
