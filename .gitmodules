@@ -16,3 +16,27 @@
 [submodule "arduino/A131-STM8S"]
 	path = arduino/A131-STM8S
 	url = https://github.com/OS-Q/A131.git
+[submodule "platforms/P128-CH55X"]
+	path = platforms/P128-CH55X
+	url = https://github.com/OS-Q/P128.git
+[submodule "platforms/P117-LGT8F"]
+	path = platforms/P117-LGT8F
+	url = https://github.com/OS-Q/P117.git
+[submodule "platforms/P511-ESP32"]
+	path = platforms/P511-ESP32
+	url = https://github.com/OS-Q/P511.git
+[submodule "platforms/P512-ESP8266"]
+	path = platforms/P512-ESP8266
+	url = https://github.com/OS-Q/P512.git
+[submodule "platforms/P421-ASR6501"]
+	path = platforms/P421-ASR6501
+	url = https://github.com/OS-Q/P421.git
+[submodule "arduino/A421-ASR6501"]
+	path = arduino/A421-ASR6501
+	url = https://github.com/OS-Q/A421.git
+[submodule "arduino/A511-ESP32"]
+	path = arduino/A511-ESP32
+	url = https://github.com/OS-Q/A511.git
+[submodule "arduino/A512-ESP8266"]
+	path = arduino/A512-ESP8266
+	url = https://github.com/OS-Q/A512.git
